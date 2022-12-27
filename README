@@ -1,6 +1,0 @@
-This repo contains flatpak script for fcitx5-mcbopomofo input method.
-
-The main YAML is copied from M17n of [flatpak-fcitx5](https://github.com/fcitx/flatpak-fcitx5)
-The fmt part is from [modules/fmt.yaml](https://github.com/fcitx/flatpak-fcitx5/tree/master/modules/fmt.yaml) of the same repo
-
-TODO: add compile steps
