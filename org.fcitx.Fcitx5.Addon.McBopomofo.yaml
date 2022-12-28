@@ -15,6 +15,7 @@ cleanup:
   - /lib/pkgconfig
   - /share/pkgconfig
   - "*.la"
+  - /lib/cmake
 modules:
   - name: fmt
     buildsystem: cmake-ninja
